@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# build directories
+build
+
+# temporarireis
+*.swp
+*.swo
+
+
